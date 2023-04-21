@@ -6,9 +6,9 @@
 
 #include <Blinker.h>
 
-char auth[] = " ";  //这里密钥
-char ssid[] = " ";   //这里WIFI名称
-char pswd[] = " ";    //这里WIFI密码
+char auth[] = "XXX";  //这里密钥
+char ssid[] = "XXX";   //这里WIFI名称
+char pswd[] = "XXX";    //这里WIFI密码
 BlinkerButton Button1("btn-on");     //定义按钮数据
 BlinkerButton Button2("btn-off"); 
 bool oState = false;

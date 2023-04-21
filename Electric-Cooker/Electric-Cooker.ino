@@ -4,9 +4,9 @@
 
 #include <Blinker.h>
 
-char auth[] = " ";  //这里密钥
-char ssid[] = " ";   //这里WIFI名称
-char pswd[] = " ";    //这里WIFI密码
+char auth[] = "b77c8041257c";  //这里密钥
+char ssid[] = "Xiaomi_D28C";   //这里WIFI名称
+char pswd[] = "35373537";    //这里WIFI密码
 
 BlinkerButton start_Button("start");     //定义按钮数据
 BlinkerButton function_Button("function");
